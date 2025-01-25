@@ -11,6 +11,15 @@ and deep learning basics than actually predict the winner 100% (is that even pos
 
 ## Structure of the Project
 
-To see the code and understand what it does visit the `src/main.py` file. If you want to see the data that I have been working with then visit
-the `data/data.txt` file.
+To see the code and understand what it does visit the `src/code/main.py` file. If you want to see the data that I have been working with then visit
+the `src/data/data.txt` file.
+
+## NN Library
+
+I will use `tinygrad` for this assignment since it is easier to learn first than `pytorch` and it's also a good introduction to deep learning and neural
+network, plus after learning `tinygrad` it is easier to dive into `pytorch`.
+
+## Sources
+
+https://docs.tinygrad.org/
 
