@@ -21,5 +21,5 @@ network, plus after learning `tinygrad` it is easier to dive into `pytorch`.
 
 ## Sources
 
-https://docs.tinygrad.org/
+[Tinygrad Documentation](https://docs.tinygrad.org/)
 
