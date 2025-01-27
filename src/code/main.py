@@ -31,3 +31,6 @@ for X, y in test_dataloader:
     print(f"Shape of X [N, C, H, W]: {X.shape}")
     print(f"Shape of y: {y.shape} {y.dtype}")
     break
+
+
+# TODO: Data folder needs to be cleared
