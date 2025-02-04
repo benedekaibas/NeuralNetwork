@@ -8,8 +8,7 @@ def softmax(logits):
 
 def cross_entropy(y_true, y_pred):
     # implement cross entropy
-    loss_ce = np.sum(y_true * np.log(y_pred))
-    return loss_ce
+    return np.sum(y_true * np.log(y_pred))
 
 # example input
 X = np.array([0.2, 0.5, 0.8])
